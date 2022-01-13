@@ -19,4 +19,8 @@ padding: 5px;
 cursor: pointer;
 border: 1px solid green;
 border-radius: 10px;
+:hover {
+    background: blueviolet;
+    color: white;
+}
 `
