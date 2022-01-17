@@ -8,11 +8,10 @@ export const GlobalStyle = createGlobalStyle`
     scroll-behavior: smooth;
   }
   body {
-    font-family: Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI',
-      Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
-      sans-serif;
+    font-family: "The Nautigal", cursive;
     background-color: #fff;
     color: #010101;
+    background: #E6E6FA;
   }
   img {
     display: block;

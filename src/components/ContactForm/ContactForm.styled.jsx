@@ -35,6 +35,7 @@ transition-duration: 500ms;
 `
 export const Input = styled.input`
 margin-top: 10px;
+padding: 5px;
 height: 30px;
 border: 1px solid rgba(33,33,33,0.2);
 border-radius: 4px;
